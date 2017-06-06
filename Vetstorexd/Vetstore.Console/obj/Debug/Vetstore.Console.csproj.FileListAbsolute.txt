@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.csprojResolveAssemblyReference.cache

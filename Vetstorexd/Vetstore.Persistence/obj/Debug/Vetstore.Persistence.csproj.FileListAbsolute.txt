@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.Migrations.InitialModel.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csproj.GenerateResource.Cache

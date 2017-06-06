@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Entities\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Entities\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.csprojResolveAssemblyReference.cache
